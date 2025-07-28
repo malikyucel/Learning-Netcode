@@ -6,9 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Unty Learn - Get started with Netcode for GameObjects/Scane/Test
-      Scane.unity
+    path: Assets/Learning Netcode for GameObject/Unty Learn - Get started with Netcode
+      for GameObjects/Scane/Test Scane.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Learning Netcode for GameObject/Color Change Wiht RPC/Scene/Color
+      Change Wiht RPC.unity
+    guid: 810c9b81f62f9a14391e2ce0f2df9be8
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
